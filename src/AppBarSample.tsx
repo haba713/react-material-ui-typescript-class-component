@@ -85,7 +85,7 @@ class AppBarSample extends Component<IProps, IState> {
         </AppBar>
         <div className={classes.content}>
         <Typography color="inherit" >
-          {'See the source '}
+          {'See the source code '}
           <Link href="https://github.com/haba713/react-material-ui-typescript-class-component">
             here
           </Link>.
